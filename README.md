@@ -20,6 +20,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/carana08/Cesar-Arana/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/carana08/carana08/output/snake.svg" alt="Snake animation" />
 
 ###
