@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es César, soy de Ecuador y soy estudiante de ingeniería en computación.</h2>
+<h2 align="left">Hola 👋! Mi nombre es César, soy de Ecuador y me encuentro estudiando ingeniería en computación.</h2>
 
 ###
 
